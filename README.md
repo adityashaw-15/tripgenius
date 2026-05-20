@@ -52,7 +52,7 @@ Run the development server:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open https://tripgenius-505639185570.us-central1.run.app
 
 ## Firebase Setup
 
